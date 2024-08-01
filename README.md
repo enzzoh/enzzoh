@@ -4,7 +4,8 @@
 
 
 
-![EnzzoH github stats](https://github-readme-stats.vercel.app/api?username=devfraga&show_icons=true&theme=dracula&count_private=true)
+![Enzzoh's GitHub stats](https://github-readme-stats.vercel.app/api?username=enzzoh&show_icons=true&theme=dracula&count_private=true)
+
 
 ## Tecnologias que eu uso no meu dia
 
