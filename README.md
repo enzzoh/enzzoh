@@ -19,5 +19,5 @@
 
 </div><br/>
 
-Apaixonado por tecnologia, e um poquinho (muito) biluteteia das idéias 
+
 
