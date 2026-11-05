@@ -1,7 +1,7 @@
 
-<!-- GitHub Profile README | github.com/enzzoh -->
 
-<h1 align="center">Enzzo Samuel</h1>
+
+<h1 align="center">Samuel</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=3000&pause=1000&color=9D79FF&center=true&vCenter=true&width=450&height=35&lines=C%23+%2F+.NET+Developer;Linux+%26+Open+Source;Yes%2C+I+use+Arch+btw" alt="C# / .NET Developer" />
