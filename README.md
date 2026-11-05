@@ -1,5 +1,3 @@
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:0D1117,45:6336D4,100:00C9FF&text=Enzzo%20Samuel&fontSize=38&fontColor=FFFFFF&fontAlignY=38&desc=C%23%20%7C%20.NET%20%7C%20Backend%20Developer&descSize=15&descAlignY=60&animation=fadeIn" alt="Banner" />
-<h3>c# • .net • backend • linux</h3><img src="https://media.tenor.com/5uCC2ilwcm8AAAAj/arch-i-use-arch-btw.gif" width="160" alt="Arch Linux GIF" />
 
 
 <img src="https://img.shields.io/badge/Arch_Linux-0D1117?style=for-the-badge&logo=archlinux&logoColor=1793D1" alt="Arch Linux" />
