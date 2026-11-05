@@ -1,8 +1,4 @@
-<!--
-  README de perfil — Enzzo Samuel
-  Antes de publicar, substitua TODAS as ocorrências de SEU_USUARIO
-  pelo seu username real do GitHub.
---><div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0D1117,45:6336D4,100:00C9FF&text=ENZZO%20SAMUEL&fontSize=48&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Developer%20%7C%20C%23%20%26%20.NET&descSize=18&descAlignY=58&animation=fadeIn" alt="Enzzo Samuel — Software Developer" /><a href="https://git.io/typing-svg">
+
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=850&color=9D79FF&center=true&vCenter=true&width=640&height=45&lines=Hello%2C+world!+%F0%9F%91%8B;C%23+%2B+.NET+%2B+lots+of+coffee;Turning+ideas+into+code;Yes%2C+I+use+Arch+btw+%F0%9F%90%A7" alt="Apresentação animada" />
 </a>
 <img src="https://media.tenor.com/5uCC2ilwcm8AAAAj/arch-i-use-arch-btw.gif" width="270" alt="I use Arch btw — GIF" />
@@ -20,6 +16,9 @@ $ cat interests.txt
 $ echo $DISTRO
 Arch Linux, btw.
 - 🎯 Foco: construir soluções bem feitas, com carinho pelo código e pela experiência de quem usa.
+- 💼 Experiência: desenvolvimento de projetos e trabalhos como freelancer.
+- 🌱 Sempre aprendendo: novas ferramentas, arquiteturas e boas práticas.
+- 🤝 Em busca de: oportunidades de estágio em desenvolvimento de software.
 ~/tech-stack ⚡
 <div align="center">Linguagens e frameworks
 <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,c,js,html,css&theme=dark&perline=8" alt="C#, .NET, Java, Python, C, JavaScript, HTML e CSS" />
@@ -39,5 +38,3 @@ public class Developer
 }
 <div align="center"><img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile+views&color=6336D4&style=flat-square" alt="Visualizações do perfil" /><sub>"It works on my machine." — of course it does, I use Arch btw. 🐧</sub>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&section=footer&color=0:0D1117,45:6336D4,100:00C9FF" alt="Rodapé decorativo" /></div>
-
-
