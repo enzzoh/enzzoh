@@ -20,9 +20,6 @@ $ cat interests.txt
 $ echo $DISTRO
 Arch Linux, btw.
 - 🎯 Foco: construir soluções bem feitas, com carinho pelo código e pela experiência de quem usa.
-- 💼 Experiência: desenvolvimento de projetos e trabalhos como freelancer.
-- 🌱 Sempre aprendendo: novas ferramentas, arquiteturas e boas práticas.
-- 🤝 Em busca de: oportunidades de estágio em desenvolvimento de software.
 ~/tech-stack ⚡
 <div align="center">Linguagens e frameworks
 <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,c,js,html,css&theme=dark&perline=8" alt="C#, .NET, Java, Python, C, JavaScript, HTML e CSS" />
