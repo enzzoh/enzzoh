@@ -25,13 +25,6 @@
   <img src="https://skillicons.dev/icons?i=cs,dotnet,java,py,c,js,html,css,mysql,postgres,docker,git,github,linux,arch,vscode&theme=dark&perline=8" alt="Tech Stack" />
 </p>
 
-<h3 align="center">GitHub Stats</h3>
-
-<p align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=enzzoh&show_icons=true&hide_border=true&include_all_commits=true&theme=tokyonight&bg_color=0D1117&title_color=9D79FF&icon_color=00C9FF&text_color=C9D1D9" alt="GitHub stats" />
-  <img width="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enzzoh&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0D1117&title_color=9D79FF&text_color=C9D1D9" alt="Top Languages" />
-</p>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=enzzoh&label=Profile+views&color=6336D4&style=flat-square" alt="Profile views" />
 </p>
